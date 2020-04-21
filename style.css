@@ -99,6 +99,7 @@ img {
   -webkit-text-stroke-color: black;
   letter-spacing: 3px;
   font-weight: 100;
+  text-align: justify;
 }
 small {
   font-size: 0.45em
@@ -112,10 +113,12 @@ small {
   font: #222 grey;
   margin-left: 40px;
   margin-top: 20px;
+  text-align: justify;
 }
 #biolist {
   list-style-type: square;
   line-height: 30px;
+  text-align: justify;
 }
 
 .list {
