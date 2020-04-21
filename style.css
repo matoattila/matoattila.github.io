@@ -173,6 +173,7 @@ small {
   line-height: 25px;
   margin-left: 40px;
   margin-top: 20px; 
+  text-align: justify;
 }
 /*-------end of achivements formatting--------*/
 
@@ -209,7 +210,8 @@ small {
   font-size: 30px;
   line-height: 25px;
   margin-left: 40px;
-  margin-top: 20px; 
+  margin-top: 20px;
+  text-align: justify; 
 }
 
 /*-------end of Experience formatting--------*/
@@ -247,6 +249,7 @@ small {
   font: #222 grey;
   margin-left: 40px;
   margin-top: 20px; 
+  text-align: justify;
 }
 
 /*-------end of Training formatting--------*/
