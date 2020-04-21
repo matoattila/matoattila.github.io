@@ -30,6 +30,7 @@ header {
   font-weight: 400;
   font-size: 30px;
   letter-spacing: 2px;
+  text-align: justify;
   font-family: 'Josefin Sans', sans-serif;
   color:rgb(70,105,126)
   
@@ -38,6 +39,7 @@ header {
   margin-top: 55px;
   font-weight: 400;
   font-size: 25px;
+  text-align: justify;
   margin-bottom: 0px;
   font-family: 'Josefin Sans', sans-serif;
   color: rgb(70,105,126);
@@ -46,17 +48,20 @@ header {
  font-family: 'Merriweather', serif;
  font-style: italic;
  font-size: 15px;
+ text-align: justify;
  margin-top: 0px;
  color:rgb(70,105,126)
 }
 .description {
   font-size: 16px;
   line-height: 25px;
+  text-align: justify;
   font-family: 'Josefin Sans', sans-serif;
   color:rgb(70,105,126)
 }
 .listing {
   text-decoration: underline;
+  text-align: justify;
   color:rgb(70,105,126)
 }
 #sublist {
